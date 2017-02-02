@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "listen lessons by php-academy",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Repeat lessons",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "Record it in workbook",
+      "isComplete": true
+    },
+    {
+      "id": 4,
+      "name": "Do hometask",
+      "isComplete": true
+    },
+    {
+      "id": 5,
+      "name": "listen and repeat task from egghead.io ",
+      "isComplete": false
+    },
+    {
+      "id": 6,
+      "name": "notate it ",
+      "isComplete": false
+    },
+    {
+      "id": 7,
+      "name": "write test",
+      "isComplete": false
+    }
+  ]
+}
